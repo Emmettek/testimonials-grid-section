@@ -27,7 +27,7 @@ body {
 @media (min-width: 992px) {
     body {
         margin: 1em;
-        height: 100svh;
+        height: 200svh;
     }
 }
 
