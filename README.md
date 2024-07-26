@@ -21,7 +21,7 @@ Users should be able to:
 
 ## Links
 - Solution URL: [Github](https://github.com/Emmettek/testimonials-grid-section)
-- Live Site URL [Github Pages](https://emmettek.github.io/testimonials-grid-section/)
+- Live Site URL: [Github Pages](https://emmettek.github.io/testimonials-grid-section/)
 
 ## My process
 ### Built with
